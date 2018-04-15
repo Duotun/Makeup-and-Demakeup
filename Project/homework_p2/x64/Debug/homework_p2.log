@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  homework_p2.cpp
+e:\大三上各种数据\图像处理技术-imageprocess\p2\project\homework_p2\homework_p2\homework_p2.cpp(88): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+e:\大三上各种数据\图像处理技术-imageprocess\p2\project\homework_p2\homework_p2\homework_p2.cpp(363): warning C4101: 'ColorImage': unreferenced local variable
+e:\大三上各种数据\图像处理技术-imageprocess\p2\project\homework_p2\homework_p2\homework_p2.cpp(309): warning C4172: returning address of local variable or temporary: pp
+  homework_p2.vcxproj -> E:\大三上各种数据\图像处理技术-imageprocess\p2\project\homework_p2\x64\Debug\homework_p2.exe
