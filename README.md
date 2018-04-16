@@ -1,7 +1,7 @@
 # Makeup-and-Demakeup
 An Implemantation of  CVPR 2009
 
-**Makeup**
+**Makeup and De-makeup**
 
 <img src="makeup_results/input1.png" align="left" />
 
@@ -11,4 +11,3 @@ An Implemantation of  CVPR 2009
 
 <img src="makeup_results/input4.png" align="left" />
 
-**De-Makeup**
